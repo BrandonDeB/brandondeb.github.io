@@ -8,3 +8,8 @@ The next morning, we began work on the actual project. My first task was to get 
 
 All the while, my teammates worked on the visual design of the site and the backend. The biggest hurdle for the project was connecting the user authentication for Spotify into our app. Unfortunately, we were unable to complete this aspect so we were only left with the main game itself.
 The presentation I thought went well with the judges asking to keep playing, but we did not finish very well in the event. The lack of Spotify integration hurt our points in the impact category. I am still happy with the placement and had a good time at the event.
+
+## Some Pictures!
+![PPPPHMOOC at work](/assets/img/at_table.jpeg "At a table")
+![Everyone after the event](/assets/img/group.jpeg "Group picture of everyone")
+![PPPPHMOOC presenting](/assets/img/Presenting.jpeg "PPPPHMOOC presenting Songguessr")
