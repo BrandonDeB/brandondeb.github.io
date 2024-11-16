@@ -10,6 +10,6 @@ All the while, my teammates worked on the visual design of the site and the back
 The presentation I thought went well with the judges asking to keep playing, but we did not finish very well in the event. The lack of Spotify integration hurt our points in the impact category. I am still happy with the placement and had a good time at the event.
 
 ## Some Pictures!
-![PPPPHMOOC at work](/assets/img/at_table.jpg "At a table")
-![Everyone after the event](/assets/img/group.jpg "Group picture of everyone")
-![PPPPHMOOC presenting](/assets/img/Presenting.jpg "PPPPHMOOC presenting Songguessr")
+![PPPPHMOOC at work](/assets/img/at_table "At a table")
+![Everyone after the event](/assets/img/group "Group picture of everyone")
+![PPPPHMOOC presenting](/assets/img/Presenting "PPPPHMOOC presenting Songguessr")
