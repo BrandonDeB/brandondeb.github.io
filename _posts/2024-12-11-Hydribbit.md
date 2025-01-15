@@ -24,7 +24,7 @@ To evaluate Hydribbit, a three-day field study was conducted with four participa
 # Reflection
 The biggest challenge for Hydribbit was ensuring user engagement, as every interaction needed to encourage users to return to the app. Initially, the team believed that adding a Tamagotchi gamification to a standard hydration tracker would be enough, but it became clear that each element required thoughtful design. While users enjoyed the gamified aspects, leading to efforts to incorporate more fun content, this focus came with trade-offs. Some game elements deviated from the app’s goal of motivating users to drink water, and water intake recommendations lacked accuracy without scientific backing. Despite these shortcomings, Hydribbit demonstrated the potential of combining utility and entertainment, suggesting future iterations should integrate the two even more closely. Balancing its dual identity as both a game and a water tracker proved challenging, highlighting the importance of an app having a clear identity that shapes its design and user interactions. Ultimately, Hydribbit showcased the value of thoughtful interaction design and provided insights for future improvements.
 # Some Pictures
-![Shop Page](IMG_4535.png)
-![Settings page](IMG_4539.png)
-![Graph page](IMG_4545.png)
-![Selecting a hat menu](IMG_4547.png)
+![Shop Page](/assets/img/Hydribbit/IMG_4535.png)
+![Settings page](/assets/img/Hydribbit/IMG_4539.png)
+![Graph page](/assets/img/Hydribbit/IMG_4545.png)
+![Selecting a hat menu](/assets/img/Hydribbit/IMG_4547.png)
