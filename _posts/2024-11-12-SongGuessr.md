@@ -1,3 +1,10 @@
+---
+tags:
+  - hackathon
+  - react
+  - python
+  - flask
+---
 I've been wanting to write some posts for this site for a while so let me take it back to 11/1/24-11/3/24 when I participated in a Hackathon. The event was put on by the Society for Asian Engineers and Scientists chapter at LSU. While neither me nor my two teammates Landon and Koby are Asian, we still aimed to participate and win.
 
 In order to ensure a great idea on Friday when the event first started, I did not go get frinks the night after Halloween, but rather brainstormed ideas with my team instead. Our idea had to be related to international travel or encourage people to explore other cultures. To satisfy the prompt and also have fun making the project, our group PPPPHMOOC (please please please please hire me out of college) decided to make a Geoguessr-esque game, but with locating the origin of songs again. The idea was that this style of game could be integrated with Spotify to allow users to find new unique music they liekly had never heard before.
