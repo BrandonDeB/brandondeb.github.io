@@ -1,11 +1,3 @@
----
-tags:
-  - hackathon
-  - project
-  - code
-team: Koby Ramsey, Hayden Duplantier, Landon Rohr, Amy Tran
-team name: No Fish
----
 # Prep
 ## Setup
 + Get my Debian environment setup on the laptop and get key packages
