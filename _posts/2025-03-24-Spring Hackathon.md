@@ -1,21 +1,3 @@
-# Prep
-## Setup
-+ Get my Debian environment setup on the laptop and get key packages
-	+ Obsidian
-	+ dev tools (IDEs/vim/emacs?)
-	+ firefox
-+ Customize the laptop, gotta look fresh
-+ Research front end and back end tech we might use. Install them
-## Supplies
-+ HDMI cables
-+ Expo markers
-+ Headphones
-+ Keyboard and mouse??
-+ Previous year's shirt
-+ Laptop and chargers
-+ Snacks?
-+ Notebook with pens
-+ Sticky Notes
 # Project Ideas
 ## Theme
 **Financial Awareness**
