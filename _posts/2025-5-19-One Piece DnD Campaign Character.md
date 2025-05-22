@@ -1,6 +1,6 @@
 # Character Sheet
 ## Basic Info
-Name: (IDK YET)
+Name: Brandon
 
 Race: Human
 
