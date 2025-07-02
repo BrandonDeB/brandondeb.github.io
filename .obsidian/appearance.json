@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "Material Gruvbox",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "snippets"
+  ]
+}
