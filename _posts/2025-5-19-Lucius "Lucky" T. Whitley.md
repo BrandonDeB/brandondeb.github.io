@@ -66,24 +66,6 @@ cssclasses:
     </table>
     <p>Temporary Hit Points: 0</p>
   </div>
-
-  <div class="warning">
-    <h2>Death Successes</h2>
-    <ul>
-      <li>[ ] Success</li>
-      <li>[ ] Success</li>
-      <li>[ ] Success</li>
-    </ul>
-  </div>
-
-  <div class="warning">
-    <h2>Death Fails</h2>
-    <ul>
-      <li>[ ] Fail</li>
-      <li>[ ] Fail</li>
-      <li>[ ] Fail</li>
-    </ul>
-  </div>
 </div>
 
 <div class="multi-column">
@@ -159,11 +141,16 @@ cssclasses:
     </ul>
     <h3>Vials</h3>
     <ul>
-      <li>Blue - Water-breathing for 10 minutes</li>
-      <li>Purple - Poison vial</li>
+		<li> 2x Blue - Water-breathing for 10 minutes</li>
+		<li>Purple - Poison vial</li>
+		<li>2x Green Vial - 1d6 Health</li>
+		<li>Red Vial - +10ft ten minutes speed</li>
+		<li>Teal Vial - 10ft Smoke screen</li>
+		<li>Pink Vial - No clue what it does</li>
+		<li>2x Gold Vials</li>
     </ul>
     <h3>Money</h3>
-    <p>0 Bellies</p>
+    <p>2 million 580 thousand Bellies</p>
   </div>
 </div>
 
@@ -202,21 +189,47 @@ cssclasses:
     </ul>
   </div>
 </div>
+# Personality
+## Laugh
+Gyototototototo
+## Backstory
+### Introduction
+As a 65 year old, Lucius T. Whitley has seen a lot. No doubt a forgetful man, but he was not always that way.
 
-<h1>Personality</h1>
-<h2>Backstories</h2>
-<h3>As a Kid</h3>
-<h3>In Education</h3>
-<h3>As an Adult</h3>
+Tucked away in the South Blue, the small and peaceful town of Driftend stood. The town's history has been short and sweet. Only 5 generations have passed since the towns origin. It is said that the founders found city life boring and built Driftend to return to nature. Although, if you listen closely, there may be some murmurs that the founders were a defeated pirate crew. Regardless, Driftend became the home of many traditional cattle ranchers and fishermen. Lex and Jenny Whitley built their home in this quiet and traditional town.
 
-<h2>Traits</h2>
-<h2>Ideals</h2>
-<h2>Bonds</h2>
-<h2>Flaws</h2>
+Lex Whitley descended from a long lineage of carpenters. The Whitley name became known for building the entire town: city hall, the church, the school house, and the court house can all be credited to the Whitley's. After an unfortunate fire burned down Lex's grandfather's work, opportunity struck. 19 year old Lex Whitley managed construction of the new town library. The new library became a marvel to all the surrounding islands. More importantly for Lex, he also built a relationship with the librarian's daughter Jenny.
+
+Jenny Tidewell was raised by her cattle ranching father and librarian mother. While she loved her father, she spent most of her time in the library. Not that she preferred her mother, but rather, she enjoyed spending time with the books. Albeit a small class, Jenny always finished at the top of her grade in school. She always had hope of leaving Driftend to attend university in a larger South Blue city. However, these aspirations fell apart. The town library caught fire, leaving her mother out of work for multiple years. Cattle prices also happened to drop around the same time. With hard economic times for the Tidewell's and no library to find solace, Jenny began teaching elementary students to help support her family. This was around the time she met Lex. The two quickly fell in love and got married.
+### Growing Up
+Not long after, the Whitley's had their first and only child Lucius T. Whitley. For a while, not much changed. Lucius grew up enjoying books and spending time in the library his father had built. The Whitley's did quite well financially, allowing for Jenny to leave teaching in order to focus on raising her child.
+
+As Lucius grew older and more capable, Lex hoped to pass down his craftsmanship. Lucius has no interest. He much preferred to help his mother and read all hours of the day. This created friction, but never resulted in much. His parents were still happy to see him excel in school and have interests. The tight-knit community in Driftend also offered Lucius a great friend group.
+### A Turning Point
+Unfortunately, the Lucky's story took a turn for the worse. Around the age of 10, Jenny grew sick. The results were not immediate, but over time she became less capable of household duties. Doctors tried all sorts of solutions. None of them worked. This carried on for over a year. During that time, the illness became worse. Lucky began spending his reading time studying diseases and medicines.
+
+The more ill Jenny got, the more time Lucky spent out of the house reading. By the time his mother became bed-ridden, Lucky decided to try something drastic. The doctors would not listen to a kid's medical opinions. Since the adults wouldn't listen, he took matters into his own hands. Lucky would concoct various gases to administer to his mom while she sleep through the day. These attempts has mixed results. Some times she would have more energy the next day, other times she felt more sick. Nothing truly impacted her long term. Her condition kept slowly worsening.
+
+Jenny passed away. Not long after, Lex learned about Lucky's "treatments". Infuriated that Lucky may have killed Jenny, Lex cracks down. Lucky would have to give up his reading and chemistry to pursue carpentry. After all, it was in the Whitley blood.
+### Drop out
+Lucky initially felt incredibly bad about the situation with his mom. He accepted the punishment his father provided. School and reading became an after thought. Friends grew further apart. It didn't take long for Lucky to find the carpentry lifestyle soul-crushing. By his mid-teenage years, Lucky began making drugs again to make himself feel more alive. As with anybody who turns to drugs for similar reasons, it made everything better. Well to be clear, it did not improve his education, social life, or relationship with his father. The drugs just made him feel better for the time being.
+
+The realization that things could be better sparked something inside of Lucius T. Whitley. He decided to make the miracle drugs itself- a drug so powerful it could bring the user pure bliss without any nasty side-effects. On a fateful morning, Lucky paid a fisherman to bring him to the next port city over to begin a new chapter.
+### Adulthood
+For many years, Lucky floated around the South Blue. Taking odd jobs allowed Lucky to survive. Of course, dealing drugs came across his mind. However, his experience with his mother's condition made him very skeptical administering anything with unproven safety. While he easily found jobs as a deck hand, bartender, or even assisting doctors, Lucky's worsening drug problem made nothing last long.
+
+In his free time, Lucky still studied chemistry in the effort to make his miracle drug. He developed rashes and a constant cough from testing new compounds on himself. After decades of floating around, Lucky found a stable job working at the chemical company Azure Labs on Sinderlin Island. Not only did the job offer him a place to work and live. It offered a mentor in the form of Dr. Myra Quell. She gave Lucky the formal training he had lacked thus far in his chemistry career. The two spent countless hours together studying the field.
+
+Over time, Myra and Lucky fell in love and got married. They stopped being coworkers when Dr. Quell took a professor position, but they continued their studies together. Lucky got clean over this time. The rashes subsided, and the cough dwindled.
+
+In the weird way the world works, Lucky heard his father fell severely ill. Knowing Lex's age will likely catch him, Lucky and Myra left for Driftend. It was clear upon arrival that Lex only had a few days left. Guilt consumed Lucky. For the past 45 years, Lucky had left Lex completely on his own. Although he apologized, it tore him apart. After Lex passed, Lucky relapsed. Azure Labs fired him, and not long after, Myra divorced him. With not much left on Sinderlin Island, Lucky went back to wandering the South Blue.
+## Traits
+## Ideals
+## Bonds
+## Flaws
 
 <h1>Wiki Information</h1>
 <p><a href="https://homebrewery.naturalcrit.com/share/74TgwAHNoX81">Wiki</a></p>
-
 <h2 id="features">Features</h2>
 
 <h3 id="lucky">Lucky</h3>
